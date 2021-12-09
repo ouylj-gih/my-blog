@@ -1,9 +1,8 @@
 ---
-title: nginx
+title: Nginx
 date: 2021-12-09 15:29:03
 tags:
 ---
-# Nginx
 
 ## 正向代理和反向代理
 
